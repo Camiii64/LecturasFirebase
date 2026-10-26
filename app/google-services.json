@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "673701211109",
+    "firebase_url": "https://lecturasdb-default-rtdb.firebaseio.com",
+    "project_id": "lecturasdb",
+    "storage_bucket": "lecturasdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673701211109:android:fdea02e1211fe4730bdd0c",
+        "android_client_info": {
+          "package_name": "com.example.lecturas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgVBTBmUlHNjHlTk_t5aJFma2MyE4d2aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
